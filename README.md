@@ -25,7 +25,7 @@ The best-performing model was achieved through AI-synthesized tweet generation, 
 
 ---
 
-## 🚀 Techniques Used
+## Techniques Used
 
 | Stage | Method |
 |-------|--------|
@@ -37,7 +37,7 @@ The best-performing model was achieved through AI-synthesized tweet generation, 
 
 ---
 
-## 🏁 Results Summary
+## Results Summary
 
 | Approach                         | Accuracy | F1 Score |
 |----------------------------------|----------|----------|
@@ -66,11 +66,3 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
-transformers==4.36.2
-torch==2.1.0
-scikit-learn==1.3.0
-pandas==2.0.3
-numpy==1.24.3
-matplotlib==3.7.1
-seaborn==0.12.2
-tqdm==4.65.0
