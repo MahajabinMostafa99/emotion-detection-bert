@@ -4,7 +4,7 @@ This project implements an emotion classification model using the `bert-base-unc
 
 ---
 
-##Project Overview
+## Project Overview
 
 Emotion recognition from text is a challenging NLP task, especially on social media data where language is informal and emotions are subtle. This project explores and compares the following techniques for improving emotion classification accuracy:
 
